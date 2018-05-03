@@ -1,0 +1,1 @@
+Examples of use of python's Magic Mock 
